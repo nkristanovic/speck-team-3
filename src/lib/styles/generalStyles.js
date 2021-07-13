@@ -110,7 +110,7 @@ export const CheckboxOptionLabel = styled.label`
   }
 `;
 
-//Button components
+//Button components - moj dio
 export const ButtonDefault = css`
   display: block;
   width: 288px;
