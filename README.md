@@ -1,3 +1,11 @@
+# admin
+username: admin@admin.com
+password: 12345678
+
+# student
+username: nikola.kritanovic@gmail.com
+password: 12345678
+
 # Team 3 project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
